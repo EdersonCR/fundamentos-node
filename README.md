@@ -3,11 +3,11 @@
 API simples para gerenciamento de tarefas em memória.
 
 
-## ## Tecnologias
+## 💻 Tecnologias
 
-* [Node.js](https://nodejs.org/pt) (v18+)
-* [csv-parse](https://csv.js.org/parse) (para importação via CSV)
-
+&ensp;&ensp;[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
+&ensp;&ensp;[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+&ensp;&ensp;[![csv-parse](https://img.shields.io/badge/csv--parse-1B8B00?style=for-the-badge&logo=csv&logoColor=white)](https://csv.js.org/parse)
 
 ## ⚙️ Instalação
 
@@ -38,7 +38,7 @@ API simples para gerenciamento de tarefas em memória.
    node src/import-tasks.js
    ```
 
-## 📄 Endpoints
+## 📬 Endpoints
 
 O servidor ficará disponível em `http://localhost:3333`.
 
